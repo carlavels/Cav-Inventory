@@ -55,9 +55,9 @@ return array(
 		'mysql' => array(
 			'driver'    => 'mysql',
 			'host'      => 'localhost',
-			'database'  => 'cav-inventory',
+			'database'  => 'cav_inventory',
 			'username'  => 'root',
-			'password'  => 'restarted',
+			'password'  => 'rootbeer',
 			'charset'   => 'utf8',
 			'collation' => 'utf8_unicode_ci',
 			'prefix'    => '',
