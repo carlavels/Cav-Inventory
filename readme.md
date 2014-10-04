@@ -4,4 +4,7 @@ Final project for first semester.
 
 ## Contributors:
 > R Daitan
-> Carl Bernal
+>Carl Bernal
+> Denise Lachica
+>Julito Galupo
+
