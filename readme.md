@@ -7,4 +7,10 @@ Final project for first semester.
 >Carl Bernal
 > Denise Lachica
 >Julito Galupo
+> Jekka Abutin
+> Richard Aquino
+
+
+## Mockups
+https://moqups.com/r.b.daitan@gmail.com/dJ3HuS6H
 
